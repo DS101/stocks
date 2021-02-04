@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: Warehose1
+  address: Address1
+  balance: 0.0
+
+two:
+  name: Warehose2
+  address: Address1
+  balance: 0.0
